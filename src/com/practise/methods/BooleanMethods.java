@@ -7,8 +7,6 @@ public class BooleanMethods {
 		return result;
 	}
 	
-	
-	
 	public static void main(String[] args) {
 		BooleanMethods and = new BooleanMethods();
 		and.logicalAnd(true, false);
