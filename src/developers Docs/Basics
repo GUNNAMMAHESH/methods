@@ -1,0 +1,11 @@
+Sortcuts
+
+Main + (ctrl+space) ->main method
+ctrl + D ->delete the line
+syso ->print statement
+
+
+rules:
+
+classname - always first letter will be uppercase of every word
+packagename -always lowercase and unique 
