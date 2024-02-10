@@ -1,4 +1,4 @@
-package com.practise.methods;
+package com.practise.statismethods;
 
 public class Methods {
 	char c1 = 'm';
