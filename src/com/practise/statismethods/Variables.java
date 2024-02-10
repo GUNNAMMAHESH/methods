@@ -8,7 +8,7 @@ public class Variables {
 
 		int val1= 45;
 		int val2 = 34;
-		System.out.println("local variables: "+val1+" "+val2);
+		System.out.println("local variables: " +val1+" "+val2);
 		int intValue;double doubleValue;
 		intValue = i;
 		doubleValue = d;
