@@ -1,9 +1,10 @@
 package com.practise.basics;
 
+import com.practise.accessmodifiers.Main;
+
 public class CondictionStatements {
 
 	public static void main(String[] args) {
-
 		// <= , nested if, && , || , else-if
 
 		int a = 76;
