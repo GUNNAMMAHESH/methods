@@ -8,15 +8,18 @@ public class Main {
 	
 	protected static int score = 100;
 	
-	static void defaultMethod(){
-		System.out.println("Default Method");
-	}
 	public static void publicMethod() {
 		System.out.println("public method");
 	}
 
 	public static void main(String[] args) {
-		
+        int[] factors = PrimeNumber.pNumbers(50);
+        System.out.println(factors);
+        
+        
+        int val = SquareRoot.sRoots(9);
+        System.out.println(val);
+        
 	}
 
 }
