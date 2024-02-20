@@ -1,24 +1,31 @@
 package com.practise.basics;
 
-public class ForEach {
-	public static void main(String[] args) {
-		boolean[] b = { false, true, false, true, true, false };
-		for (boolean c : b) {
-//		System.out.println(c);
-			if (c) {
-				System.out.println(c);
-			} else {
-				c = true;
-				System.out.println(c);
+import java.util.Iterator;
 
-			}
+public class ForEach {
+	
+	public static void main(String[] args) {
+		for (int x=0 ;true; x++) {
+			System.out.println("ASDFG");;
+			
 		}
-		
-		String[] colors = {"red","Blue",null,"Green","orange"};
-		for (String ref : colors) {
-			if(ref instanceof String){
-				System.out.println("I am string :"+ref);
-			}
-		}
+//		boolean[] b = { false, true, false, true, true, false };
+//		for (boolean c : b) {
+////		System.out.println(c);
+//			if (c) {
+//				System.out.println(c);
+//			} else {
+//				c = true;
+//				System.out.println(c);
+//
+//			}
+//		}
+//		
+//		String[] colors = {"red","Blue",null,"Green","orange"};
+//		for (String ref : colors) {
+//			if(ref instanceof String){
+//				System.out.println("I am string :"+ref);
+//			}
+//		}
 	}
 }
